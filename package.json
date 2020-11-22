@@ -1,0 +1,17 @@
+{
+  "name": "practice-lib",
+  "version": "1.0.0",
+  "description": "this is only for practice ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "server": "nodemon index.js"
+  },
+  "author": "thangathirupathi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^13.1.0",
+    "nodemon": "^2.0.6"
+  }
+}
